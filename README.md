@@ -72,13 +72,13 @@ Utilizando a Manipulação de Arrays e Atualizando dinâmica com innerHTML com a
 
 O projeto possui uma interface simples e intuitiva, contendo:
 
-Campo visual para exibir o estoque
+- Campo visual para exibir o estoque
 
-Botão para mostrar frutas
+- Botão para mostrar frutas
 
-Botão para adicionar fruta
+- Botão para adicionar fruta
 
-Botão para remover a última fruta
+- Botão para remover a última fruta
 
 ---
 ## 🚀 Tecnologias Utilizadas
