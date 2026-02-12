@@ -34,7 +34,9 @@ O sistema utiliza um array chamado:
 
 - let frutas = [];
 
-Pegando 
+Que pega o valor escrito e transmite em um bloco.
+
+---
 
 ## 📍 Mostrar Frutas
 
@@ -44,7 +46,7 @@ Mostra a quantidade total
 
 Informa quando o array está vazio
 
-➕ Adicionar Fruta
+- ➕ Adicionar Fruta
 
 Utiliza prompt() para receber o nome da fruta
 
@@ -52,25 +54,21 @@ Adiciona ao array com push()
 
 Atualiza automaticamente a tela
 
-➖ Remover Última Fruta
+- ➖ Remover Última Fruta
 
 Remove o último item com pop()
 
 Exibe alerta caso o array esteja vazio
 
-🧠 Conceitos Aplicados
+---
 
-Manipulação de Arrays
+## 🧠 Conceitos Aplicados
 
-Atualização dinâmica com innerHTML
+Utilizando a Manipulação de Arrays e Atualizando dinâmica com innerHTML com a Interação com usuário
 
-Eventos de clique
+---
 
-Estruturas condicionais
-
-Interação com usuário
-
-📷 Interface
+## 📷 Interface
 
 O projeto possui uma interface simples e intuitiva, contendo:
 
@@ -82,14 +80,15 @@ Botão para adicionar fruta
 
 Botão para remover a última fruta
 
-🚀 Tecnologias Utilizadas
+---
+## 🚀 Tecnologias Utilizadas
 
-HTML5
+- HTML
 
-CSS3
+- CSS
 
-JavaScript
-
-📚 Aprendizado
+- JavaScript
+---
+## 📚 Aprendizado
 
 Essa atividade foi importante para compreender como funciona a manipulação de dados dentro de um array e como atualizar informações dinamicamente na página utilizando JavaScript puro.
