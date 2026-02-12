@@ -6,14 +6,7 @@ Este projeto foi desenvolvido como atividade prática de JavaScript com o objeti
 A aplicação permite adicionar, listar e remover itens (frutas) dinamicamente, atualizando as informações diretamente na tela.
 ---
 ## 🎯 Objetivo da Atividade
-
--- Praticar o uso de Arrays
-
--- Manipular o DOM
-
--- Trabalhar com funções
-
--- Utilizar métodos como:
+Praticar o uso de Arrays e Manipular o DOM, ainda com um simples Trabalhar com funções Utilizar métodos como:
 
 - push()
 
@@ -23,7 +16,7 @@ A aplicação permite adicionar, listar e remover itens (frutas) dinamicamente, 
 
 - length
 
--- Aplicar lógica condicional (if/else) Interação com o usuário via prompt() e alert()
+Com o objetivo de Aplicar lógica condicional (if/else) e Interação com o usuário via prompt() e alert()
 
 ---
 ## 🛠️ Funcionalidades
@@ -39,7 +32,9 @@ A aplicação permite adicionar, listar e remover itens (frutas) dinamicamente, 
 
 O sistema utiliza um array chamado:
 
-let frutas = [];
+- let frutas = [];
+
+Pegando 
 
 ## 📍 Mostrar Frutas
 
