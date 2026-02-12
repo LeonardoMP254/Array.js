@@ -1,19 +1,19 @@
-🍎 Controle de Estoque Simples com JavaScript
-📌 Sobre o Projeto
+# 🍎 Controle de Estoque Simples com JavaScript
+## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como atividade prática de JavaScript com o objetivo de simular um controle de estoque simples utilizando Arrays.
 
 A aplicação permite adicionar, listar e remover itens (frutas) dinamicamente, atualizando as informações diretamente na tela.
+---
+## 🎯 Objetivo da Atividade
 
-🎯 Objetivo da Atividade
+- Praticar o uso de Arrays
 
-Praticar o uso de Arrays
+- Manipular o DOM
 
-Manipular o DOM
+- Trabalhar com funções
 
-Trabalhar com funções
-
-Utilizar métodos como:
+- Utilizar métodos como:
 
 push()
 
@@ -27,21 +27,23 @@ Aplicar lógica condicional (if/else)
 
 Interação com o usuário via prompt() e alert()
 
-🛠️ Funcionalidades
+---
+## 🛠️ Funcionalidades
 
-✔️ Mostrar todas as frutas cadastradas
-✔️ Exibir a quantidade total de frutas no array
-✔️ Adicionar uma nova fruta
-✔️ Remover a última fruta adicionada
-✔️ Mostrar mensagem quando o array estiver vazio
+- ✔️ Mostrar todas as frutas cadastradas
+- ✔️ Exibir a quantidade total de frutas no array
+- ✔️ Adicionar uma nova fruta
+- ✔️ Remover a última fruta adicionada
+- ✔️ Mostrar mensagem quando o array estiver vazio
 
-💻 Como Funciona
+---
+## 💻 Como Funciona
 
 O sistema utiliza um array chamado:
 
 let frutas = [];
 
-📍 Mostrar Frutas
+## 📍 Mostrar Frutas
 
 Exibe todas as frutas armazenadas
 
