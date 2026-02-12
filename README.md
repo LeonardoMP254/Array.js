@@ -7,25 +7,23 @@ A aplicação permite adicionar, listar e remover itens (frutas) dinamicamente, 
 ---
 ## 🎯 Objetivo da Atividade
 
-- Praticar o uso de Arrays
+-- Praticar o uso de Arrays
 
-- Manipular o DOM
+-- Manipular o DOM
 
-- Trabalhar com funções
+-- Trabalhar com funções
 
-- Utilizar métodos como:
+-- Utilizar métodos como:
 
-push()
+- push()
 
-pop()
+- pop()
 
-join()
+- join()
 
-length
+- length
 
-Aplicar lógica condicional (if/else)
-
-Interação com o usuário via prompt() e alert()
+-- Aplicar lógica condicional (if/else) Interação com o usuário via prompt() e alert()
 
 ---
 ## 🛠️ Funcionalidades
